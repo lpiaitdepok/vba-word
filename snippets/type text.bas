@@ -1,0 +1,3 @@
+Selection.TypeText
+
+Selection.TypeParagraph
