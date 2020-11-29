@@ -11,3 +11,5 @@ Selection.Type <> wdSelectionIP
 'wdSelectionNormal
 'wdSelectionRow
 'wdSelectionShape
+
+'reference: https://docs.microsoft.com/
